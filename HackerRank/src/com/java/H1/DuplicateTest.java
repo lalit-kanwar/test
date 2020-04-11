@@ -1,6 +1,6 @@
 package com.java.H1;
 
-public class PunditJiDuplicate {
+public class DuplicateTest {
 
 	public static void main(String[] args) {
 		int[] arr = { 1, 2, 5, 5, 6, 6, 7, 2 };

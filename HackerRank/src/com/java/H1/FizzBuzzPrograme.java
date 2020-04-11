@@ -2,7 +2,7 @@ package com.java.H1;
 
 import java.util.Scanner;
 
-public class PanditJiFizzBuzz {
+public class FizzBuzzPrograme {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
